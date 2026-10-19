@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180" fill="none">
+  <g stroke="#9fbd91" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 158C71 142 102 122 133 93C161 67 204 47 274 28"/>
+    <path d="M77 139C67 118 68 107 73 91C80 105 84 120 77 139Z" fill="#e9f3df"/>
+    <path d="M113 112C103 91 104 77 109 63C117 77 121 94 113 112Z" fill="#edf6e7"/>
+    <path d="M154 82C146 62 148 48 154 35C161 50 164 65 154 82Z" fill="#e4f0da"/>
+    <path d="M195 62C201 79 213 89 230 94C219 80 208 70 195 62Z" fill="#edf6e7"/>
+    <path d="M88 132C72 128 57 129 44 138C62 142 76 140 88 132Z" fill="#e4f0da"/>
+    <path d="M130 101C116 92 102 89 87 92C101 103 116 106 130 101Z" fill="#edf6e7"/>
+    <path d="M173 68C160 57 148 51 134 51C146 65 160 71 173 68Z" fill="#e4f0da"/>
+    <path d="M211 44C225 39 239 41 251 51C236 55 222 52 211 44Z" fill="#edf6e7"/>
+    <path d="M128 96C122 76 126 64 139 51" stroke="#d6a5b3"/>
+  </g>
+  <g transform="translate(139 43)">
+    <path d="M0-24C14-24 24-14 24 0C24 14 13 24 0 24C-14 24-24 14-24 0C-24-14-14-24 0-24Z" fill="#fbe0e7" stroke="#dc9db0" stroke-width="1.8"/>
+    <path d="M-14-4C-15-15-5-20 4-15C12-10 14-1 9 7C3 16-8 17-15 10C-20 4-20-4-15-8C-11-11-5-10-3-5C-1-1-4 4-8 4" stroke="#c87f98" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M4-8C10-9 15-4 13 3" stroke="#c87f98" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(224 31) scale(.74)">
+    <path d="M0-24C14-24 24-14 24 0C24 14 13 24 0 24C-14 24-24 14-24 0C-24-14-14-24 0-24Z" fill="#fde8ed" stroke="#e0a8b8" stroke-width="1.8"/>
+    <path d="M-14-4C-15-15-5-20 4-15C12-10 14-1 9 7C3 16-8 17-15 10C-20 4-20-4-15-8C-11-11-5-10-3-5C-1-1-4 4-8 4" stroke="#ca829b" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(82 139) scale(.58)">
+    <path d="M0-24C14-24 24-14 24 0C24 14 13 24 0 24C-14 24-24 14-24 0C-24-14-14-24 0-24Z" fill="#fde8ed" stroke="#e0a8b8" stroke-width="1.8"/>
+    <path d="M-14-4C-15-15-5-20 4-15C12-10 14-1 9 7C3 16-8 17-15 10C-20 4-20-4-15-8C-11-11-5-10-3-5C-1-1-4 4-8 4" stroke="#ca829b" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+</svg>
